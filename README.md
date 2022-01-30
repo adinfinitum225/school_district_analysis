@@ -13,25 +13,17 @@ The school board has been given evidence suggesting academic dishonesty. The mat
 <!-- Use bulleted lists and images of DataFrames as support, address the following questions -->
 
 * How is the district summary affected?
-![Old District Summary](resources/district_summary_old.png)
-
-![New District Summary](resources/district_summary_new.png)
+![Old District Summary](resources/district_summary_old.png)\n ![New District Summary](resources/district_summary_new.png)
 
 * How is the school summary affected?
-![Old Summary by School](resources/per_school_summary_old.png)
-
-![New Summary by School](resources/per_school_summar_new.png)
+![Old Summary by School](resources/per_school_summary_old.png)\n ![New Summary by School](resources/per_school_summary_new.png)
 
 * How does replacing the ninth graders' math and reading scores affect Thomas High School's Performance relative to the other schools?
-![Old Top Five Schools](resources/top_schools_old.png)
-
-![New Top Five Schools](resources/top_schools_new.png)
+![Old Top Five Schools](resources/top_schools_old.png)\n ![New Top Five Schools](resources/top_schools_new.png)
 
 * How does replaceing the ninth-grade scores affect the following:
 	- Math and reading scores by grade
-	![Old Math Scores](resources/math_by_grade_old.png) ![Old Reading Scores](resources/reading_by_grade_old.png)
-
-	![New Math Scores](resources/math_by_grade_new.png) ![New Reading Scores](resources/reading_by_grade_new.png)
+	![Old Math Scores](resources/math_by_grade_old.png) ![Old Reading Scores](resources/reading_by_grade_old.png)\n 	![New Math Scores](resources/math_by_grade_new.png) ![New Reading Scores](resources/reading_by_grade_new.png)
 	- Scores by school spending
 	![Old Scores by Spending](resources/scores_by_spending_old.png)
 
