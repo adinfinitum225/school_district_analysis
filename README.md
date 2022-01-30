@@ -13,10 +13,12 @@ The school board has been given evidence suggesting academic dishonesty. The mat
 <!-- Use bulleted lists and images of DataFrames as support, address the following questions -->
 
 * How is the district summary affected?
-![Old District Summary](resources/district_summary_old.png)\n ![New District Summary](resources/district_summary_new.png)
+![Old District Summary](resources/district_summary_old.png)\
+![New District Summary](resources/district_summary_new.png)
 
 * How is the school summary affected?
-![Old Summary by School](resources/per_school_summary_old.png)\n ![New Summary by School](resources/per_school_summary_new.png)
+![Old Summary by School](resources/per_school_summary_old.png)\
+![New Summary by School](resources/per_school_summary_new.png)
 
 * How does replacing the ninth graders' math and reading scores affect Thomas High School's Performance relative to the other schools?
 ![Old Top Five Schools](resources/top_schools_old.png)\n ![New Top Five Schools](resources/top_schools_new.png)
