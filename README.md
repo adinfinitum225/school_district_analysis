@@ -35,8 +35,8 @@ The school board has been given evidence suggesting academic dishonesty. The mat
 	![Old Scores by School Size](resources/scores_by_school_size_old.png)\
 	![New Scores by School Size](resources/scores_by_school_size_new.png)
 	- Scores by school type
-	![Old Scores by School Type](resource/scores_by_type_old.png)\
-	![New Scores by School Type](resource/scores_by_type_new.png)
+	![Old Scores by School Type](resources/scores_by_type_old.png)\
+	![New Scores by School Type](resources/scores_by_type_new.png)
 
 ## Summary
 
