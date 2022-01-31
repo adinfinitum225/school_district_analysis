@@ -35,17 +35,19 @@ There was no change in Thomas High School's performance relative to the other sc
 	The scores stayed the same, except for Thomas High School ninth grade which is now NaN.
 	- Scores by school spending\
 	![Old Scores by Spending](resources/scores_by_spending_old.png)\
-	![New Scores by Spending](resources/scores_by_spending_new.png)
+	![New Scores by Spending](resources/scores_by_spending_new.png)\
 	Scores by school spending stayed the same.
 	- Scores by school size\
 	![Old Scores by School Size](resources/scores_by_school_size_old.png)\
-	![New Scores by School Size](resources/scores_by_school_size_new.png)
+	![New Scores by School Size](resources/scores_by_school_size_new.png)\
 	Scores by school size stayed the same.
 	- Scores by school type\
 	![Old Scores by School Type](resources/scores_by_type_old.png)\
-	![New Scores by School Type](resources/scores_by_type_new.png)
+	![New Scores by School Type](resources/scores_by_type_new.png)\
 	Scores by school type stayed the same.
 
 ## Summary
+
+The biggest change was that we no longer have a math and reading score average for the Thomas High School (THS) ninth grade students. Additionally because the scores were removed the passing percentages for THS dropped significantly. There was a minor drop in the overall reading and math scores, but it's less than half a grade point. 
 
 <!-- Summarize four changes in the updated school district analysis after the suspect scores have been replaced -->
